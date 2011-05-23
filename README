@@ -1,0 +1,5 @@
+Installation Notes
+    Copy the .tmp files for database.php and config.php, placing your own configuration values inside (database login, path, etc.)
+    Modify .htaccess if need be
+
+
